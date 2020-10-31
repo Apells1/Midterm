@@ -1,0 +1,13 @@
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\bin\Debug\netcoreapp3.1\midterm.exe
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\bin\Debug\netcoreapp3.1\midterm.deps.json
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\bin\Debug\netcoreapp3.1\midterm.runtimeconfig.json
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\bin\Debug\netcoreapp3.1\midterm.runtimeconfig.dev.json
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\bin\Debug\netcoreapp3.1\midterm.dll
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\bin\Debug\netcoreapp3.1\midterm.pdb
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\obj\Debug\netcoreapp3.1\midterm.csprojAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\obj\Debug\netcoreapp3.1\midterm.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\obj\Debug\netcoreapp3.1\midterm.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\obj\Debug\netcoreapp3.1\midterm.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\obj\Debug\netcoreapp3.1\midterm.dll
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\obj\Debug\netcoreapp3.1\midterm.pdb
+C:\Users\andre\OneDrive\Desktop\.netDB\midterm\obj\Debug\netcoreapp3.1\midterm.genruntimeconfig.cache
